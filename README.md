@@ -1,6 +1,6 @@
 # 你好
 
-![avatar](/user/desktop/edem.png)
+![avatar](/user/desktop/edem)
 
 Exploring the world with **DATAS**
 
