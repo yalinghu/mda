@@ -28,7 +28,7 @@ from KATAKODA
 
 - Compare changes in the staging area  ```git diff --staged```
 
-- View gthe history of the repository and the commit log  ```git log``` <span style='color:green;background:pink;'>该命令用于显示提交日志信息, EXAMPLES：</span>
+- View gthe history of the repository and the commit log  ```git log``` <span style='color:green;background:pink;'> EXAMPLES：</span>
 
   - ```git log --no-merge``` Show the entire commit history, but skip the merge
 
