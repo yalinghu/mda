@@ -46,7 +46,7 @@ from KATAKODA
 
 
 
-Git command explaintion in CHINESE 🀄️ 【https://www.yiibai.com/git/git_config.html】
+:1st_place_medal: Git command explaintion in CHINESE 🀄️ 【https://www.yiibai.com/git/git_config.html】
 
 
 
